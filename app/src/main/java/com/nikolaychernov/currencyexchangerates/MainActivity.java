@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
     //@Bind(R.id.swipe_container)
     SwipeRefreshLayout mSwipeRefresh;
 
+
     private EasyRecyclerAdapter<Valute> mEasyRecycleAdapter;
     private CompositeSubscription mSubscriptions;
 
